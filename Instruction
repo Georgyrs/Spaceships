@@ -1,0 +1,10 @@
+Ensure you have Python installed on your system.
+Install the required libraries by running pip install pygame.
+Download the game files and PNG images from the GitHub repository.
+Run the game script in your Python environment.
+Control the red spaceship using the 'W' and 'S' keys for up and down movement, respectively. Press 'F' to shoot bullets.
+Control the yellow spaceship using the arrow keys ('UP' and 'DOWN' keys) for up and down movement, respectively. Press 'L' to shoot bullets.
+Avoid getting hit by the opponent's bullets while trying to eliminate their spaceship by shooting your bullets.
+The game ends when one player loses all their lives. You will be prompted to restart the game.
+
+also you need Material files for creating exe file
